@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Kevin Frei",
+	"description":	{
+		"":	"Expands lines within a contained region"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}

@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Kevin Frei",
+	"description":	{
+		"":	"Remove Duplicate Circles & Lines"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}

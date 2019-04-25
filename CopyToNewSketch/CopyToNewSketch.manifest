@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Kevin Frei",
+	"description":	{
+		"":	"Copy Stuff to a New Sketch"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
